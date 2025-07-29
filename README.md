@@ -25,11 +25,26 @@ React-based frontend clone of Spotify with responsive UI, audio controls, and mo
 📱 [**Food Delivery Android App**](https://github.com/sonu6494/food-delivery-app)  
 Built using Java and Firebase; includes item listings, cart functionality, and real-time user data storage.
 
-👥 [**Dev Connect**](https://github.com/sonu6494/dev-connect) *(In Progress)*  
-A MERN-stack platform where developers can create profiles and share posts. Features JWT authentication and MongoDB data storage.
-
 ---
 
 ### 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/sonukumar-kumar-b50759239)  
+
+      <style>
+        .libutton {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          padding: 7px;
+          text-align: center;
+          outline: none;
+          text-decoration: none !important;
+          color: #ffffff !important;
+          width: 200px;
+          height: 32px;
+          border-radius: 16px;
+          background-color: #0A66C2;
+          font-family: "SF Pro Text", Helvetica, sans-serif;
+        }
+      </style>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sonu-kumar-b50759239" target="_blank">Follow on LinkedIn</a>
 - 📧 sonukumar2323sonu@gmail.com  
