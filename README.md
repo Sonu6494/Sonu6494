@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
-<h3 align="center">🎓 Computer Science graduate | 💻 Web & Android Developer 🚀 Passionate about building user-centric, full-stack applications</h3>
+<h3 align="center">🎓 Computer Science graduate | 💻 Full Stack Developer 🚀 Passionate about building user-centric, full-stack applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonu6494&label=Profile%20views&color=0e75b6&style=flat" alt="sonu6494" /> </p>
 
