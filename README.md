@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F84F7,100:0D1117&height=200&section=header&text=Sonu%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Automation%20Builder&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F84F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Sonu+Kumar;Full+Stack+Developer+%F0%9F%92%BB;Automation+%26+React%2FNextJS+Enthusiast;Building+Practical%2C+User-Centric+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2F84F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Sonu+Kumar;Full+Stack+Developer+%F0%9F%92%BB;Automation+%26+React%2FNextJS+Enthusiast;Building+Practical%2C+User-Centric+Apps" alt="Typing SVG" />
 
 <br/>
 
@@ -71,26 +71,6 @@ fun_fact: "I turn repetitive manual business workflows into automated pipelines"
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sonu6494&repo=sales-automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F84F7" height="165"/>
-</a>
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sonu6494&repo=client-crm&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F84F7" height="165"/>
-</a>
-<br/>
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sonu6494&repo=fund-collection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F84F7" height="165"/>
-</a>
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sonu6494&repo=ecommerce-frontend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F84F7" height="165"/>
-</a>
-
-</div>
-
-> ⚠️ **Setup note:** these pin cards only render once you replace `repo=sales-automation` etc. with your **actual repo names** on GitHub (case-sensitive, must be public repos). Until then they'll show "repo not found."
-
 | Project | Stack | What it does |
 |---|---|---|
 | 🔄 Sales Field Operations & Inventory Automation | Google Apps Script, AppSheet | Live inventory sync from Busy accounting software + location-based field CRM with role-based access |
@@ -104,12 +84,10 @@ fun_fact: "I turn repetitive manual business workflows into automated pipelines"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sonu6494&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F84F7&icon_color=2F84F7" height="165" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu6494&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F84F7" height="165" alt="languages graph" />
+<img src="https://github-stats-extended.vercel.app/api?username=Sonu6494&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F84F7&icon_color=2F84F7" height="165" alt="stats graph" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sonu6494&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F84F7" height="165" alt="languages graph" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu6494&theme=tokyonight&hide_border=true&background=0D1117&ring=2F84F7&fire=2F84F7" alt="streak stats" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu6494&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F84F7&line=2F84F7&point=ffffff" width="90%" alt="activity graph"/>
+<img src="https://streak-stats.demolab.com/?user=Sonu6494&theme=tokyonight&hide_border=true&background=0D1117&ring=2F84F7&fire=2F84F7" alt="streak stats" />
 
 </div>
 
